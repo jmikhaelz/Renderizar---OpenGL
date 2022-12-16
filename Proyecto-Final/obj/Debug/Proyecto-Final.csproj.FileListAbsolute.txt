@@ -1,0 +1,9 @@
+C:\Users\JmZ\Desktop\Proyecto-Final\Proyecto-Final\bin\Debug\Proyecto-Final.exe.config
+C:\Users\JmZ\Desktop\Proyecto-Final\Proyecto-Final\bin\Debug\Proyecto-Final.exe
+C:\Users\JmZ\Desktop\Proyecto-Final\Proyecto-Final\bin\Debug\Proyecto-Final.pdb
+C:\Users\JmZ\Desktop\Proyecto-Final\Proyecto-Final\bin\Debug\OpenTK.dll
+C:\Users\JmZ\Desktop\Proyecto-Final\Proyecto-Final\bin\Debug\OpenTK.pdb
+C:\Users\JmZ\Desktop\Proyecto-Final\Proyecto-Final\bin\Debug\OpenTK.xml
+C:\Users\JmZ\Desktop\Proyecto-Final\Proyecto-Final\obj\Debug\Proyecto-Final.csprojResolveAssemblyReference.cache
+C:\Users\JmZ\Desktop\Proyecto-Final\Proyecto-Final\obj\Debug\Proyecto-Final.exe
+C:\Users\JmZ\Desktop\Proyecto-Final\Proyecto-Final\obj\Debug\Proyecto-Final.pdb
